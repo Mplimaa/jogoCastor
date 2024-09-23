@@ -21,7 +21,7 @@ Copiar código
 cd jogoCastor
 
 
-3. ***Inicie um servidor HTTP**: Para rodar o jogo, você precisará de um servidor. Utilize o http-server, que pode ser instalado via npm:
+3. ***Inicie um servidor HTTP**: Para rodar o jogo, você precisará de um servidor(ambiente de homologação). Utilize o http-server, que pode ser instalado via npm:
 npm install -g http-server
 Depois, execute:
 http-server
