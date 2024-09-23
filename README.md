@@ -11,14 +11,14 @@ Este é um jogo simples onde o jogador controla um castor que deve coletar paus.
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/Mplima/nome-do-repositorio.git
+   git clone https://github.com/Mplima/jogoCastor.git
 
 
 2. ***Acesse o diretório do projeto**:
 
 bash
 Copiar código
-cd nome-do-repositorio
+cd jogoCastor
 
 
 3. ***Inicie um servidor HTTP**: Para rodar o jogo, você precisará de um servidor. Utilize o http-server, que pode ser instalado via npm:
@@ -27,7 +27,7 @@ Depois, execute:
 http-server
 
 
-4. ***Acesse o jogo**: Abra seu navegador (recomendo usar o Mozilla Firefox) e vá para http://localhost:8080.
+4. ***Acesse o jogo**: Abra seu navegador (recomendo usar o Mozilla Firefox, pois funcionou certinho!) e vá para http://localhost:8080.
 
 
 ***Nota: O jogo funcionou corretamente no Mozilla Firefox. No Microsoft Edge, podem ocorrer problemas.A imagem do personagem está com fundo branco não deu tempo de editar e remove-la :C**
