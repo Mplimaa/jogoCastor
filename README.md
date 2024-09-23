@@ -36,7 +36,7 @@ http-server
 ***Controles do Jogo**
 Pressione a tecla Espaço para fazer o castor pular e coletar paus.
 A pontuação será exibida na tela. O jogo termina quando todos os paus saem da tela.
-
+Obs: Para ganhar é necessário coletar 95% dos paus.
 
 ***Métodos Principais**
 preload(): Carrega as imagens do castor antes do início do jogo.
